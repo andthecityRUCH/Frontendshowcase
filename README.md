@@ -1,4 +1,4 @@
-# 🌟 Frontend Showcase by AndTheCityRuch
+#  Frontend Showcase by AndTheCityRUCH
 
 Welcome to my **Frontend Showcase** — a curated collection of creative, visually engaging frontend projects built with HTML, CSS, and JavaScript. This showcase represents both learning and experimentation in UI/UX design, animations, responsiveness, and interactive web components.
 
@@ -6,13 +6,13 @@ Welcome to my **Frontend Showcase** — a curated collection of creative, visual
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🎨 **Modern Design**: Visually appealing layouts and color schemes inspired by contemporary web design trends.
-- ⚡ **Responsive Layout**: Works seamlessly across desktops, tablets, and mobile devices.
-- 🧩 **Interactive Elements**: Hover effects, transitions, and animations to enhance user experience.
-- 💻 **Clean Codebase**: Well-organized HTML, CSS, and JavaScript with comments for easy understanding.
-- 🔄 **Expandable Structure**: Built in a modular fashion to easily add more showcase items.
+-  **Modern Design**: Visually appealing layouts and color schemes inspired by contemporary web design trends.
+-  **Responsive Layout**: Works seamlessly across desktops, tablets, and mobile devices.
+-  **Interactive Elements**: Hover effects, transitions, and animations to enhance user experience.
+-  **Clean Codebase**: Well-organized HTML, CSS, and JavaScript with comments for easy understanding.
+-  **Expandable Structure**: Built in a modular fashion to easily add more showcase items.
 
 ---
 
